@@ -1,0 +1,11 @@
+c:\users\brett\source\repos\RepChar\RepChar\bin\Debug\netcoreapp2.2\RepChar.deps.json
+c:\users\brett\source\repos\RepChar\RepChar\bin\Debug\netcoreapp2.2\RepChar.runtimeconfig.json
+c:\users\brett\source\repos\RepChar\RepChar\bin\Debug\netcoreapp2.2\RepChar.runtimeconfig.dev.json
+c:\users\brett\source\repos\RepChar\RepChar\bin\Debug\netcoreapp2.2\RepChar.dll
+c:\users\brett\source\repos\RepChar\RepChar\bin\Debug\netcoreapp2.2\RepChar.pdb
+c:\users\brett\source\repos\RepChar\RepChar\obj\Debug\netcoreapp2.2\RepChar.csprojAssemblyReference.cache
+c:\users\brett\source\repos\RepChar\RepChar\obj\Debug\netcoreapp2.2\RepChar.csproj.CoreCompileInputs.cache
+c:\users\brett\source\repos\RepChar\RepChar\obj\Debug\netcoreapp2.2\RepChar.AssemblyInfoInputs.cache
+c:\users\brett\source\repos\RepChar\RepChar\obj\Debug\netcoreapp2.2\RepChar.AssemblyInfo.cs
+c:\users\brett\source\repos\RepChar\RepChar\obj\Debug\netcoreapp2.2\RepChar.dll
+c:\users\brett\source\repos\RepChar\RepChar\obj\Debug\netcoreapp2.2\RepChar.pdb
